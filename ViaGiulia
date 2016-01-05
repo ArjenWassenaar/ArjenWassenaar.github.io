@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Via Giulia</title>
+<style>
+body {
+background-color: #303030 ;
+}
+h1 {
+color: white;
+font-family: verdana;
+}
+img { 
+    width:30%;
+    
+}
+p {
+margin: 20px;
+color: #FFFFFF;
+font-family: verdana;
+}
+#header {
+margin:20px;
+color: #FFFFFF;
+font-family: verdana;
+font-size: 100%;
+
+}
+#fig {
+color: white;
+font-family: verdana;
+font-style: italic;
+}
+li {
+margin: 20px;
+color: #FFFFFF;
+font-family: verdana;
+font-size: 100%;
+}
+
+</style>
+</head>
+<body> 
+<h1>The Apollo Belvedere</h1>
+<hr>
+<figure>
+  <img src="http://www.gonfalone6.com/uploads/dintorni/big/5Via_Giulia.jpg" alt="my img">
+  <figcaption id="fig">De Via Giulia, gelegen in de wijk Castel Sant’Angelo, is een in Rome gelegen straat, die vernoemd werd naar paus Julius II. De aanleg van de straat was onderdeel van een stedenbouwkundig project, waarbij Julius een ring van wegen wilde laten aanleggen, die de beide oevers van de Tiber met elkaar verbonden via de Ponte Sisto, aangelegd in opdracht van paus Sixtus IV, de Via della Lungara en een nieuw te bouwen brug. Voor het project riep Julius de hulp in van Donato Bramante.</figcaption>
+</figure> 
+
+
+<hr>
+<h2 id="header">Beschrijving</h2>
+<p>De 1 kilometer lange Via Giulia is de langste rechte straat die werd aangelegd in Rome sinds de Oudheid en verbond de Ponte Sisto met het Vaticaan. Naast de functie van nieuwe verkeersader moesten langs de straat gebouwen opgetrokken worden die de bestuurlijke apparaten van de stad zouden huisvesten, waaronder het Palazzo dei Tribunali (rechtbank). Hoewel de straat zelf wel verwezenlijkt werd, vond de bouw van onder meer het Palazzo dei Tribunali niet plaats. Op de fundamenten van dit Palazzo bevindt zich nu een modern hotel.
+
+In 2008 werd het feit gevierd, dat in 1508 begonnen was met de aanleg van de Via Giulia. De straat behoort tegenwoordig tot een van de exclusieve winkelstraten van Rome door de aanwezigheid van kunstgaleries en antiekwinkels.
+
+In de straat bevinden zich de volgende kerken:
+<ul>
+<li>San Giovanni dei Fiorentini: De kerk van de Florentijnse gemeenschap in Rome. De kerk is gewijd aan Johannes de Doper, patroonheilige van de stad Florence.</li>
+<li>San Biagio della Pagnotta: De kerk van de Armeense gemeenschap</li>
+<li>Santa Maria del Suffragio</li>
+<li>San Filippo Neri: (alleen de gevel is hiervan over)</li>
+<li>Santo Spirito dei Napoletani: De kerk van de Napolitaanse gemeenschap</li>
+<li>Santa Caterina da Siena: De kerk van de gemeenschap uit Siena</li>
+<li>Santa Maria dell’Orazione e Morte: In de crypte bevinden zich ruimtes die gedecoreerd zijn met menselijke botten.</li>
+</ul>
+<br>
+<p>Ook kan men hier het kantoor van de anti-maffiabrigade in Rome en het Museo Criminologico vinden.</p>
+<br>
+<p>De Arco dei Farnesi, een boog die bedoeld was om de Villa Farnese te verbinden met het Palazzo Farnese, vormt nu slechts een decoratief element in het straatbeeld.</p>
+<br>
+<h3 id="header">Foto's</h3>
+<p>Hier op volgorde foto's van de bezienswaardigheden langs de Via Giulia</p>
+<hr>
+<img src="http://www.zainoo.com/media/medium/3585.JPEG">
+<br>
+<img src="http://www.laboratorioroma.it/Le%20mie%20passeggiate/13_City%20rinascimento/Immagini/009_64_S%20Biagio.jpg">
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/L'Aquila_Santa_Maria_del_Suffragio_2007_by-RaBoe_01.jpg">
+<br>
+<img src="http://imgc.allpostersimages.com/images/P-473-488-90/37/3760/JVLZF00Z/posters/angelo-morbelli-church-of-san-filippo-neri.jpg">
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Spirito_Santo_dei_Napoletani.jpg/181px-Spirito_Santo_dei_Napoletani.jpg">
+<br>
+<img src="http://vignette1.wikia.nocookie.net/romanchurches/images/1/1d/Catarina_da_Siena_in_Via_Giulia.jpg/revision/latest?cb=20100930163109">
+<br>
+<img src="http://www.laboratorioroma.it/Le%20mie%20passeggiate/03_via%20Giulia/immagini/chsmmorte01.jpg">
+<hr>
+
+</body>
+</html>
